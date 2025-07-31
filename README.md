@@ -59,5 +59,5 @@ npm run dev
 ```
 
 ### 4. Acess the API
-Open the POSTMAN which is API Testing tool and run the following API's
+Open the POSTMAN which is API Testing tool and run all API endpoints mentioned previously in table
 
