@@ -24,3 +24,26 @@ A simple RESTful API built with Node.js and Express.js that allows CRUD operatio
   "price": 100,
   "description": "A product description"
 }
+```
+
+---
+
+## 📡 API Endpoints
+
+| Method | Endpoint               | Description                       |
+|--------|------------------------|-----------------------------------|
+| GET    | `/products`            | Get all products (supports pagination) |
+| GET    | `/products/:id`        | Get a single product by ID        |
+| POST   | `/products`            | Add a new product                 |
+| PUT    | `/products/:id`        | Update an existing product        |
+| DELETE | `/products/:id`        | Delete a product by ID            |
+| GET    | `/products/search?q=term` | Search products by name or description |
+
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/product-api.git
+cd product-api
+```
