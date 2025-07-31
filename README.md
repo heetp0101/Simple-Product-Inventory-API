@@ -47,3 +47,17 @@ A simple RESTful API built with Node.js and Express.js that allows CRUD operatio
 git clone https://github.com/your-username/product-api.git
 cd product-api
 ```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Start the Server
+```bash
+npm run dev
+```
+
+### 4. Acess the API
+Open the POSTMAN which is API Testing tool and run the following API's
+
